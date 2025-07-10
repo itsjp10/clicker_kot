@@ -2,7 +2,7 @@ import pyautogui
 import time
 error_segundo = 0.02
 
-real = [8, 8.13, 9.14, 10.07, 11.27, 13.18, 15.07, 16.24, 17.20, 18.16, 19.087, 19.24]
+real = [8, 8.13, 9.14, 10.07, 11.27, 13.18, 15.07, 16.24, 17.20, 18.16, 19.087, 19.244]
 decimas_only = []
 for i in real:
     entero = int(i)
